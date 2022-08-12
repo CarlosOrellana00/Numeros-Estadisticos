@@ -3,7 +3,7 @@ Numeros Estadisticos que Incremenan a la vista, hecho en HTML, CSS y JS.
 ¿Quien no ha visto en paginas web el efecto de numeros de una estadistica que crecen hasta alcanzar un limite?
 
 <div align="center">
-  <a href="" rel="noopener">
+  <a href="https://carlosorellana00.github.io/Numeros-Estadisticos/" rel="noopener">
     <img src="./docs/img/img.jpg" alt="icon" width="100%">
   </a>
 </div>
@@ -16,7 +16,7 @@ Numeros Estadisticos que Incremenan a la vista, hecho en HTML, CSS y JS.
 basicamente en mostrar 3 numeros que crecen hasta alcanzar un limite y señalan una estadistica, no tiene un fin mas complejo como proyecto de practica
 
 ## ¿Puedo ver en Acción este proyecto?
-Si, haciendo click [aqui]()
+Si, haciendo click [aqui](https://carlosorellana00.github.io/Numeros-Estadisticos/)
 
 ## Referencias y Agradecimientos a:
 
