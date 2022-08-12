@@ -4,7 +4,7 @@ Numeros Estadisticos que Incremenan a la vista, hecho en HTML, CSS y JS.
 
 <div align="center">
   <a href="" rel="noopener">
-    <img src="./docs/img/img.jpg" alt="icon" width="150">
+    <img src="./docs/img/img.jpg" alt="icon" width="100%">
   </a>
 </div>
 
